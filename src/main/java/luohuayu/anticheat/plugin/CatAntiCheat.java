@@ -18,7 +18,7 @@ import java.util.UUID;
  * It's now adaptable with Mohist!
  * Enjoy~
  *
- * Email: misterrabbit@qq.com
+ * Email: rabbit0w0@outlook.com
  */
 public class CatAntiCheat extends JavaPlugin implements Listener {
     public static CatAntiCheat plugin;
